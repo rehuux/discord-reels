@@ -165,7 +165,7 @@ Syed Rehan
 
 📄 License
 
-This project is open for educational use. Redistribution or commercial use requires permission.
+This project is open for educational use.
 
 ---
 

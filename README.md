@@ -92,7 +92,7 @@ Users simply send an Instagram link, and the bot returns the downloadable media 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/instagram-discord-bot.git
+git clone https://github.com/rehuux/discord-reels.git
 
 # Install dependencies
 pip install -r requirements.txt   # For Python
